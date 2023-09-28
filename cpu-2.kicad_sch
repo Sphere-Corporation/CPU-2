@@ -27219,8 +27219,8 @@
     (property "Datasheet" "~" (at 371.348 317.246 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 0a093f67-7d6b-49f2-b235-006d9beb31b7))
-    (pin "" (uuid 0a093f67-7d6b-49f2-b235-006d9beb31b7))
+    (pin "" (uuid 0a093f67-7d6b-49f2-b235-006d9beb31b8))
+    (pin "" (uuid 0a093f67-7d6b-49f2-b235-006d9beb31b8))
     (instances
       (project "cpu-2"
         (path "/0d40da8b-082c-404e-8b7d-00a504b0b5d0"
@@ -28025,8 +28025,8 @@
     (property "Datasheet" "~" (at 374.142 353.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 34052c84-5233-4f3f-a14f-588938937b8a))
-    (pin "" (uuid 34052c84-5233-4f3f-a14f-588938937b8a))
+    (pin "" (uuid 34052c84-5233-4f3f-a14f-588938937b8b))
+    (pin "" (uuid 34052c84-5233-4f3f-a14f-588938937b8b))
     (instances
       (project "cpu-2"
         (path "/0d40da8b-082c-404e-8b7d-00a504b0b5d0"
@@ -28127,8 +28127,8 @@
     (property "Datasheet" "~" (at 371.348 328.676 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid cab7fc5c-bbc3-4bda-9224-5910729caf22))
-    (pin "" (uuid cab7fc5c-bbc3-4bda-9224-5910729caf22))
+    (pin "" (uuid cab7fc5c-bbc3-4bda-9224-5910729caf23))
+    (pin "" (uuid cab7fc5c-bbc3-4bda-9224-5910729caf23))
     (instances
       (project "cpu-2"
         (path "/0d40da8b-082c-404e-8b7d-00a504b0b5d0"
@@ -31298,8 +31298,8 @@
     (property "Datasheet" "~" (at 374.142 342.138 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid fa60268d-a792-4c7b-b4ff-326f5f0683b7))
-    (pin "" (uuid fa60268d-a792-4c7b-b4ff-326f5f0683b7))
+    (pin "" (uuid fa60268d-a792-4c7b-b4ff-326f5f0683b8))
+    (pin "" (uuid fa60268d-a792-4c7b-b4ff-326f5f0683b8))
     (instances
       (project "cpu-2"
         (path "/0d40da8b-082c-404e-8b7d-00a504b0b5d0"
@@ -31669,8 +31669,8 @@
     (property "Datasheet" "~" (at 183.642 365.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 0cbfcfed-982e-4bc0-b1d3-6388529d5e79))
-    (pin "" (uuid 0cbfcfed-982e-4bc0-b1d3-6388529d5e79))
+    (pin "" (uuid 0cbfcfed-982e-4bc0-b1d3-6388529d5e7a))
+    (pin "" (uuid 0cbfcfed-982e-4bc0-b1d3-6388529d5e7a))
     (instances
       (project "cpu-2"
         (path "/0d40da8b-082c-404e-8b7d-00a504b0b5d0"
@@ -32024,8 +32024,8 @@
     (property "Datasheet" "~" (at 373.38 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 58196005-7b1f-48fa-911a-9f5147ea4750))
-    (pin "" (uuid 58196005-7b1f-48fa-911a-9f5147ea4750))
+    (pin "" (uuid 58196005-7b1f-48fa-911a-9f5147ea4751))
+    (pin "" (uuid 58196005-7b1f-48fa-911a-9f5147ea4751))
     (instances
       (project "cpu-2"
         (path "/0d40da8b-082c-404e-8b7d-00a504b0b5d0"
@@ -32612,8 +32612,8 @@
     (property "Datasheet" "~" (at 276.86 138.684 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 9b7e69cd-0a0a-4dfe-b288-e06f3fca79e0))
-    (pin "" (uuid 9b7e69cd-0a0a-4dfe-b288-e06f3fca79e0))
+    (pin "" (uuid 9b7e69cd-0a0a-4dfe-b288-e06f3fca79e1))
+    (pin "" (uuid 9b7e69cd-0a0a-4dfe-b288-e06f3fca79e1))
     (instances
       (project "cpu-2"
         (path "/0d40da8b-082c-404e-8b7d-00a504b0b5d0"
@@ -32751,8 +32751,8 @@
     (property "Datasheet" "~" (at 282.448 138.684 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid dad2bfea-2aa2-4337-8e22-577802bf5aba))
-    (pin "" (uuid dad2bfea-2aa2-4337-8e22-577802bf5aba))
+    (pin "" (uuid dad2bfea-2aa2-4337-8e22-577802bf5abb))
+    (pin "" (uuid dad2bfea-2aa2-4337-8e22-577802bf5abb))
     (instances
       (project "cpu-2"
         (path "/0d40da8b-082c-404e-8b7d-00a504b0b5d0"
@@ -32855,8 +32855,8 @@
     (property "Datasheet" "~" (at 279.654 138.684 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid e4316d0f-9ab6-489a-9b0f-471ce9df9ddd))
-    (pin "" (uuid e4316d0f-9ab6-489a-9b0f-471ce9df9ddd))
+    (pin "" (uuid e4316d0f-9ab6-489a-9b0f-471ce9df9dde))
+    (pin "" (uuid e4316d0f-9ab6-489a-9b0f-471ce9df9dde))
     (instances
       (project "cpu-2"
         (path "/0d40da8b-082c-404e-8b7d-00a504b0b5d0"
@@ -32958,8 +32958,8 @@
     (property "Datasheet" "~" (at 271.526 138.684 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 62cc3409-2dee-41f2-a7cd-03d06f63d325))
-    (pin "" (uuid 62cc3409-2dee-41f2-a7cd-03d06f63d325))
+    (pin "" (uuid 62cc3409-2dee-41f2-a7cd-03d06f63d326))
+    (pin "" (uuid 62cc3409-2dee-41f2-a7cd-03d06f63d326))
     (instances
       (project "cpu-2"
         (path "/0d40da8b-082c-404e-8b7d-00a504b0b5d0"
@@ -32984,8 +32984,8 @@
     (property "Datasheet" "~" (at 274.32 138.684 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid ba523794-31bc-4e81-980c-eb444ceeefcf))
-    (pin "" (uuid ba523794-31bc-4e81-980c-eb444ceeefcf))
+    (pin "" (uuid ba523794-31bc-4e81-980c-eb444ceeefd0))
+    (pin "" (uuid ba523794-31bc-4e81-980c-eb444ceeefd0))
     (instances
       (project "cpu-2"
         (path "/0d40da8b-082c-404e-8b7d-00a504b0b5d0"
