@@ -36,7 +36,7 @@
 
 My journey into the Sphere started in March 2023, when I came across the interesting computer "Sphere 1" produced and marketed from Bountiful, Utah, beginning around 1975.
 
-I found this reference on a [Hackaday page](https://hackaday.com/2023/03/11/a-love-letter-to-the-sphere-computer/), which led me to Ben Zott's fantastic resource "http://sphere.computer”
+I found this reference on a [Hackaday page](https://hackaday.com/2023/03/11/a-love-letter-to-the-sphere-computer/), which led me to Ben Zotto's fantastic resource "http://sphere.computer”
 
 With an interest in retro computing, but a very elementary electronics knowledge, I decided that I had to build one, as no-one had attempted to re-create one from scratch since the original build days.
 
@@ -44,23 +44,13 @@ The main issue is that the documentation is sparse, with the computers even spar
 
 This is the story of how I got on, my trials and tribulations and (hopefully) in time, the results of my labours.
 
+### Support and documentation
+
+The support information and working documents are in [this Google Drive location](https://drive.google.com/drive/folders/1pmVDfZ4yi3qTCiAyxHcxU5NclI4-OWuW?usp=share_link).
 
 ### Built With
 
 [![KiCAD][kicad-logo]][KiCAD]
-
-
-<!-- ROADMAP 
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
--->
 
 <!-- CONTRIBUTING -->
 
